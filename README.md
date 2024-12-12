@@ -5,7 +5,7 @@ This project focuses on analyzing employee data within a company to uncover key 
 
 **Methods used in this project include:**
 
-**Data Preprocessing**:
+- **Data Preprocessing**:
   - **Cleaning the "Height" Column**: Replaced any invalid or inconsistent height data with random values between 150 and 180.
   - **Replacing Null Values in the Salary Column**: Filled missing salary values with the mean salary of the entire dataset.
   - **Data Validation and Cleaning**: Removed duplicate entries and ensured all columns have consistent data types while correcting anomalies such as negative ages or salaries.
